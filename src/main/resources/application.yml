@@ -1,0 +1,7 @@
+spring:
+    mvc:
+        view:
+            prefix: /resources/static/ 
+            suffix: .jsp		
+    application: 
+        name: wins
